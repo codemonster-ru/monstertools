@@ -1,4 +1,4 @@
-# @codemonster-ru/vue-utilities
+# MonsterTools
 
 Open source utilities for Vue.js.
 
